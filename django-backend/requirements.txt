@@ -1,0 +1,10 @@
+Django==5.0.6
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+drf-nested-routers
+Pillow
+gunicorn
+psycopg2-binary
+django-storages[azure]
+python-decouple
